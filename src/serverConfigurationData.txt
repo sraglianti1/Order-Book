@@ -1,0 +1,3 @@
+TCPport = 7199
+threadPoolSize = 10
+IdCounter = 128
